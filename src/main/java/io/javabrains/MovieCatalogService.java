@@ -8,7 +8,7 @@ public class MovieCatalogService {
 
 	public static void main(String[] args) {
 		
-		System.out.println("watching movie");
+		System.out.println("watching movie and i enjoy that movie");
 		SpringApplication.run( MovieCatalogService.class,args);
 			
 		}
